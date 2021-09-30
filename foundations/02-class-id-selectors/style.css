@@ -1,7 +1,18 @@
-.one,
-.three,
-.five {
+.odd {
     background: lightpink;
-    font: Verdana, sans-serif;
+    font-family: Verdana, sans-serif;
 }
 
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+#four,
+.three {
+    font-size: 24px;
+}
+
+#four {
+    background: lightgreen;
+}
